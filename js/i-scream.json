@@ -1,0 +1,47 @@
+{
+  "companyName": "Delightful Flavors Inc.",
+  "topFlavors": [
+    {
+      "flavor": "Vanilla",
+      "type": "Ice Cream",
+      "calories": 200,
+      "rating": 4.5,
+      "ingredients": ["Cream", "Sugar", "Vanilla Extract"]
+    },
+    {
+      "flavor": "Chocolate",
+      "type": "Ice Cream",
+      "calories": 250,
+      "rating": 4.8,
+      "ingredients": ["Cocoa Powder", "Milk", "Sugar"]
+    },
+    {
+      "flavor": "Strawberry",
+      "type": "Sorbet",
+      "calories": 180,
+      "rating": 4.2,
+      "ingredients": ["Strawberries", "Sugar", "Water"]
+    },
+    {
+      "flavor": "Mango Tango",
+      "type": "Sorbet",
+      "calories": 150,
+      "rating": 4.6,
+      "ingredients": ["Mango", "Lime Juice", "Sugar"]
+    },
+    {
+      "flavor": "Caramel Crunch",
+      "type": "Gelato",
+      "calories": 280,
+      "rating": 4.7,
+      "ingredients": ["Caramel Sauce", "Toasted Almonds", "Milk"]
+    },
+    {
+      "flavor": "Blueberry Blast",
+      "type": "Sorbet",
+      "calories": 160,
+      "rating": 4.4,
+      "ingredients": ["Blueberries", "Lemon Juice", "Sugar"]
+    }
+  ]
+}
